@@ -1,3 +1,3 @@
-# gsolutionske.github.io
+# gitus-website
 
-This is the Gitus Solutions company website repository. The live version is accessible at http://gitus-solution.com/
+This is the Gitus Solutions company website repository. The live version is accessible at https://jgithaiga.github.io/gitus-website/
